@@ -11,15 +11,50 @@ const translations = {
       { label: "Projects", link: "projects" },
     ],
     title: "QuantCoder",
-    intro: "Hi, I'm",
+    intro: "Hi! I'm",
     experience: "Commercial experience:",
     aboutText: `
-      My coding journey started with simple <b>console applications</b> and experimenting with <b>game development</b> on my old PC. The magic of seeing code come to life in the form of a game or a tool instantly hooked me. I quickly moved on to building more complex projects — from small games and desktop utilities to backend services and web apps.<br /><br />
-      I have hands-on experience with a wide range of technologies: <b>JavaScript</b> (and TypeScript), <b>Java</b>, <b>C#</b>, <b>C++</b>, and even some Python and Go for scripting and automation. My favorite playgrounds are <b>React</b>, <b>Node.js</b>, and <b>Next.js</b>, but I'm always curious to try new frameworks and stacks.<br /><br />
-      As a <b>freelancer</b>, I've worked on everything from interactive web dashboards and multiplayer game servers to custom desktop tools and automation scripts. I love the challenge of jumping into a new codebase, understanding the client's vision, and delivering real value — whether it's a fast prototype or a production-ready system.<br /><br />
-      <b>Game development</b> taught me the importance of performance and optimization, while building <b>console utilities</b> and <b>server-side apps</b> sharpened my skills in system design and debugging. I enjoy switching between frontend and backend, and I'm comfortable working with both <b>SQL</b> and <b>NoSQL</b> databases, deploying apps on cloud servers, and integrating third-party APIs.<br /><br />
-      My approach is simple: <b>solve real problems, write clean code, and never stop learning</b>. I believe that the best solutions come from a mix of curiosity, persistence, and a bit of creative chaos. I love collaborating with other developers, sharing ideas, and building products that make a difference.<br /><br />
-      Whether it's designing a scalable backend, building a pixel-perfect UI, or optimizing a database query, I always strive to push the boundaries of what's possible with code. If you're looking for someone who can bring both technical expertise and creative energy to your project — let's connect!
+      Hi! I'm QuantCoder, a fullstack developer with 1.5 years of commercial experience.
+      I love coding both on the frontend and backend - each gives me a different charge and satisfaction. For me, the most important thing is to create. Something that works. Something that makes sense. Not just code, but solutions.<br /><br />
+      
+      My journey started with writing console utilities, simple games, and client-server applications. Now I create real, well-thought-out products that solve problems.<br /><br />
+      
+      I work confidently with:
+      <ul>
+        <li>JavaScript / TypeScript - main stack</li>
+        <li>Java, C#, C++ - actively used in various projects</li>
+        <li>Python and a bit of Go - mainly for automation and experiments</li>
+      </ul>
+      
+      On the frontend, I like to create beautiful and convenient interfaces. I use:
+      <ul>
+        <li>React / Next.js</li>
+        <li>TailwindCSS, SCSS, CSS modules - for styling</li>
+        <li>Animations, components, custom solutions - to make the interface really alive</li>
+      </ul>
+      
+      On the backend, I enjoy:
+      <ul>
+        <li>implementing business logic</li>
+        <li>working with databases</li>
+        <li>setting up API, WebSocket, authentication, validation</li>
+      </ul>
+      
+      I have experience with these technologies:
+      <ul>
+        <li>Node.js / Express / Nest.js</li>
+        <li>Java / Spring</li>
+        <li>C# / .NET</li>
+      </ul>
+      
+      I've worked with databases:
+      <ul>
+        <li>PostgreSQL / MySQL / MongoDB</li>
+        <li>Firebase</li>
+        <li>ORMs: Prisma, TypeORM, JPA</li>
+      </ul>
+      
+      I am flexible to changes, learn quickly, and can find solutions where others give up. The process drives me - both technical and creative. My hobby is code, because it's through it that I can express myself.
     `,
     dbTitle: "Databases",
     dbDesc: `
@@ -37,15 +72,50 @@ const translations = {
       { label: "Проєкти", link: "projects" },
     ],
     title: "QuantCoder",
-    intro: "Привіт, я",
+    intro: "Привіт! Я —",
     experience: "Комерційний досвід:",
     aboutText: `
-      Моя подорожь у програмуванні почалась з простих <b>консольних програм</b> та експериментів з <b>розробкою ігор</b> на моєму старому комп'ютері. Магія бачення коду, що оживає у формі ігри або інструменту, вразу захопила мене. Я швидко перейшов до створення більш складних проектів - від маленьких ігор та десктопних утиліт до серверних сервісів та веб-додатків.<br /><br />
-      У мене є практичний досвід роботи з широким спектром технологій: <b>JavaScript</b> (та TypeScript), <b>Java</b>, <b>C#</b>, <b>C++</b>, а також Python та Go для скриптів та автоматизації. Мої улюблені місця для експериментів - це <b>React</b>, <b>Node.js</b> та <b>Next.js</b>, але я завжди зацікавлений спробувати нові фреймворки та стеки.<br /><br />
-      Як <b>фрилансер</b>, я працював над усім - від інтерактивних веб-панелей та серверів для ігор до спеціалізованих десктопних інструментів та скриптів для автоматизації. Я люблю виклик, який приносить робота з новим кодом, розуміння візіону клієнта та надання реальної цінності - чи то швидкий прототип, чи готова до випуску система.<br /><br />
-      <b>Розробка ігор</b> навчала мене важливості продуктивності та оптимізації, поки розробка <b>консольних утиліт</b> та <b>серверних додатків</b> не зміцнювала мої навички в системному дизайні та дебагінгу. Я насолоджуюся перемиканням між фронтендом та бекендом, і я вільно працюю з обома <b>SQL</b> та <b>NoSQL</b> базами даних, розгортанням додатків на хмарних серверах та інтеграцією зовнішніх API.<br /><br />
-      Мій підхід простий: <b>розв'язувати реальні проблеми, писати чистий код та ніколи не зупинятися в навчанні</b>. Я вірю, що найкращі рішення приходять від змішання любопитства, наполегливості та трохи креативного хаосу. Я люблю співпрацювати з іншими розробниками, ділитися ідеями та створювати продукти, які роблять різницю.<br /><br />
-      Незалежно від того, чи це дизайн масштабного бекенду, створення піксельно-точного UI чи оптимізація запиту до бази даних, я завжди намагаюся висунути межі того, що можливо з кодом. Якщо ви шукаєте когось, хто може принести як технічну експертизу, так і креативну енергію до вашого проекту - давайте зв'яжемось!
+      Привіт! Я — QuantCoder, fullstack розробник із півтора роками комерційного досвіду.  
+      Обожню кодити як на фронті, так і на бекенді — кожен з них дає мені інший заряд і задоволення. Для мене головне — це створювати. Щось, що працює. Щось, що має сенс. Не просто код, а рішення.<br /><br />
+      
+      Мій шлях почався з написання консольних утиліт, простих ігор та клієнт-серверних додатків. Зараз я створюю реальні, продумані продукти, які вирішують проблеми.<br /><br />
+      
+      Я впевнено працюю з:
+      <ul>
+        <li>JavaScript / TypeScript — основний стек</li>
+        <li>Java, C#, C++ — активно використовував у різних проєктах</li>
+        <li>Python та трохи Go — переважно для автоматизацій та експериментів</li>
+      </ul>
+      
+      На фронтенді мені подобається створювати гарні та зручні інтерфейси. Я використовую:
+      <ul>
+        <li>React / Next.js</li>
+        <li>TailwindCSS, SCSS, CSS modules — для стилізації</li>
+        <li>Анімації, компоненти, кастомні рішення — щоб зробити інтерфейс справді живим</li>
+      </ul>
+      
+      На бекенді мені подобається:
+      <ul>
+        <li>реалізовувати бізнес-логіку</li>
+        <li>взаємодіяти з БД</li>
+        <li>налаштовувати API, WebSocket, авторизацію, валідацію</li>
+      </ul>
+      
+      Маю досвід із такими технологіями:
+      <ul>
+        <li>Node.js / Express / Nest.js</li>
+        <li>Java / Spring</li>
+        <li>C# / .NET</li>
+      </ul>
+      
+      Працював з базами:
+      <ul>
+        <li>PostgreSQL / MySQL / MongoDB</li>
+        <li>Firebase</li>
+        <li>ORMs: Prisma, TypeORM, JPA</li>
+      </ul>
+      
+      Я гнучкий до змін, швидко вчуся, вмію знаходити рішення там, де інші здаються. Мене драйвить процес — як технічний, так і креативний. Моє хобі — це код, бо саме через нього я можу проявити себе.
     `,
     dbTitle: "Бази даних",
     dbDesc: `
